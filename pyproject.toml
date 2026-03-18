@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.8.10"
 dependencies = [
+    "pyqt6>=6.7.1",
     "qtpy>=2.0.0",
 ]
 
